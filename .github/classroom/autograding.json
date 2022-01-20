@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "testArithmeticSequence",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testArithmeticSequence",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "testCountX",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testCountX",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "testExponent",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testExponent",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "testCountHi",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testCountHi",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
